@@ -1,24 +1,15 @@
-# Дополнительные задания для курса Математика и Python
-
-> Нужен задачник, чтобы у людей выработался условный рефлекс, как применять те или иные фичи.
-> От простого к чуть более сложному (но всё равно простому). А сложное в курсе.
-
-## Roadmap
-
-Список идей для ноутбуков:
-
-* решение систем линейных уравнений в Python :heavy_check_mark:
-* центральная предельная теорема
-* основные понятия в статистике (генеральная совокупность, среднее, выборочное среднее, дисперсия, стандартное отклонение etc)
-* основы работы с `pandas` и `numpy`:
-  * в чем разница между библиотеками
-  * общая логика работы
-  * задачи (например: создать массив, датафрейм, добавить строки, добавить столбцы, считать из файла, записать в файл, поменять названия колонок, убрать столбцы, убрать строки, сабсеты, преобразования)
-* [основы работы с `matplotlib`](http://acm.mipt.ru/twiki/bin/view/Cintro/PythonGraphs#__q__ql_i_chkm_):
-  * общая логика работы с библиотекой
-  * задачи (например: сделать гистограмму, сделать разноцветную гистограмму, добавить подписи, добавить легенду, сделать гистограмму с легендой и подписями)
-* введение в Python: типы данных, функции, циклы etc
-* что значит pythonic (tips and tricks для программирования на Python)
+##note
+solving systems of linear equations in Python
+Central Limit Theorem
+Basic concepts of statistics (mean, mean, sample mean, variance, standard deviation, etc.)
+Pandas and numpy basic settings
+lib explain
+Overall Task
+project (example: create array, create data frame, add lines, add columns, compute from file, write to file, rename columns, delete columns, remove lines, subset, convert)
+##matplotlib basic settings:
+Library Operations
+project (example: Creating a histogram, creating a histogram of different colors, adding signatures, adding legends, creating legends)
+python intro : data types , functions, loops things
 
 
 ##Link
