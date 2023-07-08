@@ -6,7 +6,8 @@ Pandas and numpy basic settings
 lib explain
 Overall Task
 project (example: create array, create data frame, add lines, add columns, compute from file, write to file, rename columns, delete columns, remove lines, subset, convert)
-##matplotlib basic settings:
+
+## matplotlib basic settings:
 Library Operations
 project (example: Creating a histogram, creating a histogram of different colors, adding signatures, adding legends, creating legends)
 python intro : data types , functions, loops things
@@ -15,3 +16,7 @@ python intro : data types , functions, loops things
 ##Link
 
 https://www.coursera.org/learn/machine-learning-data-analysis
+
+##P.S.
+
+its written in russian. hope u can read. i learned from duolingo.
