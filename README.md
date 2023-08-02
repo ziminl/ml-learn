@@ -19,4 +19,4 @@ https://www.coursera.org/learn/machine-learning-data-analysis
 
 ##P.S.
 
-its written in russian. hope u can read. i learned from duolingo.
+Its written in russian. hope u can read. I learned from duolingo.
