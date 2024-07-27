@@ -1,3 +1,32 @@
+## listmap
+>>>>ai
+>>>maze search algo
+>>>pattern recognition
+>>>fuzzy theory
+>>>genetic algorithm
+>>>artificial life
+>>>ml
+###supervised learning
+##ensemble
+#random forest
+#xgboost
+##regression(prediction)
+#linear regression
+##classification
+#logistic regression
+#decision tree
+#SVM
+#KNN
+#naive bayesian algorithm
+###unsupervised learning
+##cluster
+#K MEANS
+###reinforcement learing
+>>>DL
+##CNN
+
+
+
 ##note
 solving systems of linear equations in Python
 Central Limit Theorem
