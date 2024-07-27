@@ -17,6 +17,8 @@ python intro : data types , functions, loops things
 
 https://en.wikipedia.org/wiki/Data_preprocessing
 
+remove outlier 
+
 nan to average or linear value
 
 use chatgpt
