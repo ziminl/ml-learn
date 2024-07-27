@@ -85,3 +85,15 @@ https://www.coursera.org/learn/machine-learning-data-analysis
 ##P.S.
 
 Its written in russian. hope u can read. I learned from duolingo.
+
+
+
+
+#xor gate
+
+https://en.wikipedia.org/wiki/XOR_gate
+
+https://towardsdatascience.com/how-neural-networks-solve-the-xor-problem-59763136bdd7
+
+https://www.youtube.com/watch?v=kNPGXgzxoHw
+
