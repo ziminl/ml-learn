@@ -1,17 +1,17 @@
 ## listmap
->>>>ai
+#####ai
 
->>>maze search algo
+####maze search algo
 
->>>pattern recognition
+####pattern recognition
 
->>>fuzzy theory
+####fuzzy theory
 
->>>genetic algorithm
+####genetic algorithm
 
->>>artificial life
+####artificial life
 
->>>ml
+####ml
 
 ###supervised learning
 
