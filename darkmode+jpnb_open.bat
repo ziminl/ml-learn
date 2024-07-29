@@ -7,3 +7,8 @@
 #jt -t onedork
 #or
 #jt -t monokai 
+pip install jupyterthemes 
+
+jt -t onedork
+
+Jupyter Notebook
