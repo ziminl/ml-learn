@@ -1,2 +1,3 @@
 #https://www.youtube.com/watch?v=DnkxaEgen0E
-#jt -t monokai 
+
+#pip install jupyterthemes #jt -t onedork
