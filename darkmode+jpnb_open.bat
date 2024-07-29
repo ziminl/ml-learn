@@ -2,6 +2,8 @@
 
 #pip install jupyterthemes 
 
+#http://localhost:8888/tree and themes
+
 #jt -t onedork
 #or
 #jt -t monokai 
