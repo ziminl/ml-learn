@@ -97,7 +97,7 @@ https://www.coursera.org/learn/machine-learning-data-analysis
 Its written in russian. hope u can read. I learned from duolingo.
 
 
-
+## teach
 
 # xor gate
 
