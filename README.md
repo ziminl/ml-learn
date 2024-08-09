@@ -72,7 +72,7 @@ https://en.wikipedia.org/wiki/Data_preprocessing
 
 remove outlier 
 
-fill nan to average or linear value
+fill nan to average or linear or mode value
 
 use chatgpt
 
