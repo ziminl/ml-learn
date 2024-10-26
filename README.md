@@ -108,6 +108,15 @@ https://towardsdatascience.com/how-neural-networks-solve-the-xor-problem-5976313
 https://www.youtube.com/watch?v=kNPGXgzxoHw
 
 
-#
+#install cuda enabled gpu, tensorflow.org/install/gpu
+
+```
+pip install tensorflow-gpu
+```
+
+test of it
+
+import tensorflow as tf
+print("TensorFlow version:", tf.__version__)
 
 
